@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.signup{
+    /* width: 16rem; */
+    border: 1px solid #000075;
+    padding: 28px 60px;
+}
+
+label{
+    font-size: large;
+}
